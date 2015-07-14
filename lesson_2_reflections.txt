@@ -14,3 +14,8 @@ it let's you know if the files are going to be tracked.
 How can you use the staging area to make sure you have one commit per logical change?
 
 i can see which files i'm going to commit using "git status" command. i can use "git diff" to see what changes i've made to the code.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+experimental features, other language versions, a team working on features separately. branches would help by keeping the master clean and working correctly as you created other new things that may break things. also, individuals or teams could be more aggressive in trying new things without affecting the other teams or breaking the master version that is working
