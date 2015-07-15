@@ -27,3 +27,9 @@ How do the diagrams help you visualize the branch structure?
 
 it's easy to see where things split, but really it was helpful when it explaned how to create a branch from a 
 checkouted commit not on the branch tip
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it updates the files to include all the changes since they were split into two. it is represented in the diagram 
+that way because it makes sense visually.
