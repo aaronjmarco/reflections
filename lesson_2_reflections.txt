@@ -33,3 +33,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 it updates the files to include all the changes since they were split into two. it is represented in the diagram 
 that way because it makes sense visually.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: way faster, no user errors from copying and pasting
+cons: auto merge may not always get it right
