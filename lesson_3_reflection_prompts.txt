@@ -22,3 +22,10 @@ branches are 'verisons' of a repository. these are used to make new features or 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You will know how many commits you have made since the last time you pushed.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+you could use some other cloud based collaboration solution or another version-control system. you could use the same machine
+in a partner scenario. there would be less command line things to do, which would potentially be easier,
+ but it would be difficult to keep track of changes. 
