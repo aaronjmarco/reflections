@@ -17,3 +17,8 @@ you would use a fork when you want to copy a GitHub repository and link back to 
 it allows you to possibly collaborate with people in public and it also allows you to customize things. 
 clones would be used if you didn't want to acknowledge the original creator or if you just wanted to use something locally.
 branches are 'verisons' of a repository. these are used to make new features or do experiments et al.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You will know how many commits you have made since the last time you pushed.
