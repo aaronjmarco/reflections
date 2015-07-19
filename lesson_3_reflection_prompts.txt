@@ -28,4 +28,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 you could use some other cloud based collaboration solution or another version-control system. you could use the same machine
 in a partner scenario. there would be less command line things to do, which would potentially be easier,
- but it would be difficult to keep track of changes. 
+but it would be difficult to keep track of changes. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would want to make changes in a separate branch when I want to keep that branch separate for any reason: 
+an experiment, an easier or alternate version for a game. also, this allows for better collaboration before 
+merging the separate branch into the master branch on GitHub. making changes in the master is more complex, 
+but it keeps things cleaner by making sure all your changes work with everyone else's changes before merging 
+them into the remote master.
